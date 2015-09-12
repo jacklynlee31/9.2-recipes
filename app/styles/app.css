@@ -1,0 +1,18 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+.first {
+    list-style-type: none;
+    line-height: 2em;
+    float: left;
+    margin-left: 3em;
+}
+.second {
+    list-style-type: none;
+    line-height: 2em;
+    float: right;
+    margin-right: 30em;
+}
